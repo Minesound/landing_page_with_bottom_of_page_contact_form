@@ -1,38 +1,37 @@
 {
-    "info": {
-      "url_png_icon_64x64": "https://piada.io/piada64.png",
-      "url_png_logo": "https://piada.io/piadaFull.png",
-      "location": "Virginia, USA",
-      "social": {
-        "twitter_handle": "eastpiada",
-        "telegram_handle": "piadapool",
-        "youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
-        "github_handle": "AstroWa3l"
-      },
-      "company": {
-        "name": "PIADA",
-        "addr": "",
-        "city": "",
-        "country": "United States",
-        "company_id": "",
-        "vat_id": ""
-      },
-      "about": {
-        "me": "https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
-        "server": "Apple Silicon M1 mini + 4x Raspberry Pi 4B 8GB",
-        "company": "PIADA provides educational content specializing in Raspberry Pi and ARM 64-bit SoC based stake pool operations."
-      },
-      "rss": ""
+  "info": {
+    "url_png_icon_64x64": "https://piada.io/piada64.png",
+    "url_png_logo": "https://piada.io/piadaFull.png",
+    "location": "Virginia, USA",
+    "social": {
+      "twitter_handle": "eastpiada",
+      "telegram_handle": "piadapool",
+      "youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
+      "github_handle": "AstroWa3l"
     },
-    "telegram-admin-handle": {
-      "0": "eastpiada",
-      "1": "Qwailman"
+    "company": {
+      "name": "PIADA",
+      "addr": "",
+      "city": "",
+      "country": "United States",
+      "company_id": "",
+      "vat_id": ""
     },
-    "my-pool-ids": [
-      "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
-    ],
-    "when-satured-then-recommend": [
-      "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
-    ]
+    "about": {
+      "me": "https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
+      "server": "Apple Silicon M1 mini, Rock5b, Firefly, 4x Raspberry Pi 4B",
+      "company": "PIADA pool runs energy efficient ARM hardware. Armada Alliance OGs providing documentation for Cardano on ARM."
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": {
+    "0": "eastpiada",
+    "1": "Qwailman"
+  },
+  "my-pool-ids": [
+    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+  ],
+  "when-satured-then-recommend": [
+    "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+  ]
 }
-  
